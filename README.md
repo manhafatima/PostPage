@@ -8,37 +8,12 @@ This is a React-based post application that allows users to create, view, and in
 
 ### ✅ Required Features
 
-- [x] The app includes a create form that allows users to create posts
-  - [x] Users can create new posts through a dedicated create form
-  - [x] Users are required to enter a post title
-  - [x] Users can optionally add additional text content
-  - [x] Users can optionally add an image using an external image URL
-
-- [x] The app includes a home feed displaying previously created posts
-  - [x] All created posts are displayed on the home feed
-  - [x] Each post displays the creation time, title, and upvote count
-  - [x] Post content and images are only displayed on the individual post page
-  - [x] Clicking a post redirects users to a separate page for that post
-
-- [x] Users can view posts in different ways
-  - [x] Users can sort posts by creation time
-  - [x] Users can sort posts by upvote count
-  - [x] Users can search for posts by title
-
-- [x] Users can interact with individual posts
-  - [x] Each post has a dedicated page displaying additional information
-  - [x] Individual post pages display post content and images
-  - [x] Users can leave comments on posts
-  - [x] Comments are stored and retrieved using Supabase
-  - [x] Users can upvote posts using an upvote button
-  - [x] Each upvote increases the post's upvote count by one
-  - [x] Users can upvote a post multiple times
-
-- [x] Users can manage previously created posts
-  - [x] Users can edit posts after creation
-  - [x] Users can update the title, content, and image URL of a post
-
-
-## 📸 GIF Walkthrough
+- Create posts with a required title, optional text content, and image URL
+- Home feed displaying all posts with creation time, title, and upvote count
+- Post pages with full content, images, and comments
+- Sort and search posts by creation time, upvotes, or title
+- Interact with posts by adding comments and upvoting
+- Edit posts to update the title, content, and image URL
+- Supabase integration for storing and retrieving posts, comments, and upvotes
 
 [App Walkthrough](https://canva.link/0szjrk41vxfuwws)
