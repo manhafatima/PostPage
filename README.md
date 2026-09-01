@@ -1,8 +1,8 @@
-# WEB102 Project - *Post App*
+#Capstone Project: PostPage
 
 ## Overview
 
-This is a React-based Post application that allows users to create, view, and interact with posts. The app uses Supabase as a backend database to store posts and comments. Users can create posts with titles, text content, and external image URLs, browse posts through a feed, search and sort posts, interact through upvotes and comments, and manage their own posts through editing and deletion.
+This is a React-based post application that allows users to create, view, and interact with posts. The app uses Supabase as a backend database to store posts and comments. Users can create posts with titles, text content, and external image URLs, browse posts through a feed, search and sort posts, interact through upvotes and comments, and manage their own posts through editing and deletion.
 
 ---
 
